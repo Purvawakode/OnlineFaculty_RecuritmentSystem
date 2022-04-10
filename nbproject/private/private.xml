@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/src/java/dbConn/GetConnection.java</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/images/bg.png</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/recruiterlogindb.jsp</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/candidateHome.jsp</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/candidatelogindb.jsp</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/recruiterlist.jsp</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/src/java/dto/VacancyDto.java</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/css/style.css</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/src/java/dao/VacancyDao.java</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/candidate_reg.html</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/recruiter_reg.html</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/recruiterHome.jsp</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/addRecruiter.jsp</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/adminlogin.html</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/src/java/dao/AdminDao.java</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/recruiterlogin.html</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/images/logo.png</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/adminlogindb.jsp</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/adminFooter.jsp</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/images/img1.jpg</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/recruiterHeader.jsp</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/src/java/dto/CandidateDto.java</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/recruiter_add_vacancy_db.jsp</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/candidateHeader.jsp</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/candidateFooter.jsp</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/src/java/dto/RecruiterDto.java</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/src/java/dao/CandidateDao.java</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/images/avatar.png</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/index.html</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/adminhome.jsp</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/addCandidate.jsp</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/adminapproverecruiter.jsp</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/recruiteraddvacancy.jsp</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/adminlogout.jsp</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/recruiterFooter.jsp</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/adminHeader.jsp</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/web/candidatelogin.html</file>
+            <file>file:/C:/Users/purva/OneDrive/Documents/NetBeansProjects/OnlineFacultySystem/src/java/dao/RecruiterDao.java</file>
+        </group>
+    </open-files>
+</project-private>

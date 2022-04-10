@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Faculty Recruitment</title>
+        <link href="css/style.css" rel="stylesheet" type="text/css"/>
+        <link href="images/logo.png" rel="shortcut icon" type="image/png">
+    </head>
+    <body>
+        <div id="container">
+              <div id="header">
+                  &nbsp;&nbsp;
+                  <img src="images/logo.png" id="logo" alt=""/>
+                  <span style="position: absolute;"> &nbsp;&nbsp;  Faculty Recruitment System | <span style="color:dodgerblue">Recruiter Panel</span> </span>
+               </div>
+            <div id="navbar">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="#about">About Us</a></li>
+                    <li><a href="#contact">Contact Us</a></li>
+                     <li><a href="recruiterlogin.html">Recruiter Login</a></li>
+                    <li><a href="candidatelogin.html">Candidate Login</a></li>
+               </ul>
+            </div>
+            <div style="margin-top: -50px;height: auto;" id="adminbox">
+                <fieldset id="adminset">
+                    <legend><h1>Recruiter Registration</h1></legend>
+                           <form action="addRecruiter.jsp">
+            <input required type="text" name="name" placeholder="Enter Proper Name">
+           
+            <select style="height: 30px; width: 300px; font-family: candara;font-size: 22px;" required name="recruiter">
+             <option value="">Select Recruiter</option>
+             <option value="school">School</option>
+             <option value="college">College</option>
+             <option value="institute">Institute</option>
+            </select>
+           
+            <input required type="email" name="email" placeholder="Enter Email">
+           
+            <input required type="password" name="password" placeholder="Enter Password">
+          
+            <input required type="text" name="contact" placeholder="Enter Contact">
+           
+    <input required type="text" name="address" placeholder="Enter Address">
+ 
+            <br>
+            <input id="adminbtn" type="submit" value="Register">         
+            <input id="adminbtn" type="reset" value="Reset">         
+            
+           </form>
+       <a style="font-size: 20px; color:red;text-decoration: none;" href="recruiter_reg.html">
+                        <center>Already Registered  ? Login Here
+                        </center>
+                    </a>
+
+                </fieldset>
+            </div>
+            <div id="footer">
+                <center>&copy;All Rights Reserved | 2021&trade;</center>
+            </div>
+        </div>
+    </body>
+</html>

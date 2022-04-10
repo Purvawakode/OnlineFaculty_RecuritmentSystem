@@ -1,0 +1,16 @@
+SMAP
+recruiteraddvacancy_jsp.java
+JSP
+*S JSP
+*F
++ 0 recruiterHeader.jsp
+recruiterHeader.jsp
++ 1 recruiteraddvacancy.jsp
+recruiteraddvacancy.jsp
++ 2 recruiterFooter.jsp
+recruiterFooter.jsp
+*L
+1,24:50
+1#1,66:74
+1#2,7:139
+*E

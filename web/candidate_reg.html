@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Faculty Recruitment</title>
+        <link href="css/style.css" rel="stylesheet" type="text/css"/>
+        <link href="images/logo.png" rel="shortcut icon" type="image/png">
+    </head>
+    <body>
+        <div id="container">
+              <div id="header">
+                  &nbsp;&nbsp;
+                  <img src="images/logo.png" id="logo" alt=""/>
+                  <span style="position: absolute;"> &nbsp;&nbsp;  Faculty Recruitment System | <span style="color:dodgerblue">Candidate Panel</span> </span>
+               </div>
+            <div id="navbar">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="#about">About Us</a></li>
+                    <li><a href="#contact">Contact Us</a></li>
+                     <li><a href="recruiterlogin.html">Recruiter Login</a></li>
+                    <li><a href="candidatelogin.html">Candidate Login</a></li>
+               </ul>
+            </div>
+
+            
+                      <div id="adminbox">
+                <fieldset style="margin-top: -50px;width: 70%" id="adminset">
+                    <br><center><h1>Candidate Registration</h1></center>
+                    <br><form action="addCandidate.jsp">
+                       <div style="margin-left: 90px;width:400px; float: left;">         
+         
+            <input  required type="text" name="fname" placeholder="Enter First Name">
+
+            <input  required type="text" name="lname" placeholder="Enter Last Name">
+
+            <input  required type="email" name="email" placeholder="Enter Email">
+           
+            <input  required type="password" name="password" placeholder="Enter Password">
+          
+            <p style="font-size : 20px;">Select Gender</p>
+            <input style="height: 20px;width: 60px;" checked type="radio" id="male" value="male" name="gender">Male
+            <input style="height: 20px; width: 60px;" type="radio" id="female" value="female" name="gender">Female
+
+
+<p style="font-size : 20px;">Enter DOB</p>
+            <input  required type="date" name="date">
+
+                       </div>
+                       <div style="width:400px; float: left;">
+                   
+            <input  required type="text" name="address" placeholder="Enter Address">
+           
+            <input  required type="text" name="mobile" placeholder="Enter Contact">
+           
+           
+            <select style="margin: 5px ;height: 30px; width: 300px; font-family: candara;font-size: 22px;" required name="qualification">
+             <option value="">Select Qualification</option>
+             <option value="B.com">B.com</option>
+             <option value="BCA">BCA</option>
+             <option value="BE">BE</option>
+             <option value="MCA">MCA</option>
+             <option value="MBA">MBA</option>
+            
+            </select>
+            <input  required type="number" min="0" max="100"  name="percentage" placeholder="Enter Percentage">
+ 
+            <select style="margin: 5px;height: 30px; width: 300px; font-family: candara;font-size: 22px;"  required name="experience">
+             <option value="">Experience</option>
+             <option value="Fresher">Fresher</option>
+             <option value="1 year">1 year</option>
+             <option value="2 year">2 year</option>
+             <option value="3 year">3 year</option>
+             <option value="4+ year">4+ year</option>
+            
+            </select>
+           
+            
+            <br>
+            <input  type="submit" id="adminbtn" value="Register">
+           <input  type="reset" id="adminbtn" value="Reset">
+           
+                       </div>
+            
+           </form>
+                </fieldset>
+            </div>
+
+
+
+            <div id="footer">
+                <center>&copy;All Rights Reserved | 2021&trade;</center>
+            </div>
+        </div>
+    </body>
+</html>
